@@ -163,13 +163,6 @@ Aspiring Data Analyst with skills in:
 - Data Visualization
 - Exploratory Data Analysis (EDA)
 
-### Connect With Me
-
-- LinkedIn: www.linkedin.com/in/tolulope-dorcas
-- GitHub: https://github.com/yourusername
-
----
-
 ## Project Status
 
 Completed ✔️
